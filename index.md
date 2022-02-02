@@ -1,10 +1,10 @@
-## Welcome to GitHub Pages
+## Life Expectancy Causal Analysis Project
 
-You can use the [editor on GitHub](https://github.com/emily-ramond/Life-Expectancy-Causal-Analysis/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+In this project, we aim to establish causality between various socioeconomic variables and life expectancy outcomes in  roughly 166 different countries, noting the strongest connections between economic and political factors with the length of life expectancy. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Below you will find background information on our data, our reasoning, our methods, and how to gather information for real world questions you can have. 
 
-### Markdown
+### Interactive Unit
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -26,12 +26,15 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### How to Use
+XXXX  XXX XX X XX
 
-### Jekyll Themes
+### Our Methods
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/emily-ramond/Life-Expectancy-Causal-Analysis/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+In this project, we utilize Independence-based causal discovery, leading us to use the popular **PC algorithm**, created and named after Spirtes and Glymour, that utilizes the idea that two statistically independent variables are not causally linked.
+
+### Our Data
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Want to see more behind the scenes or need additional help? Check out our [documentation](https://github.com/mglevitt/Medical-Disparity-Causal-Analysis) or send us an email at eramond@ucsd.edu, mglevitt@ucsd.edu, and akreitzman@ucsd.edu. 
