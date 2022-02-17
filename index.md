@@ -23,7 +23,7 @@ Lastly, our project is built as a pipeline, ready for any additional data to be 
 
 To see the data cleaning and pipelining process, check out [Data Cleaning!](data-cleaning.md)
 
-If you would like to read more about our data, see [this report.](https://docs.google.com/document/d/1cvPz98_5bFYzUca4mlcvndjPvenBJzs4ya1jSkPVNS0/edit?usp=sharing) or view the data directly on [our repo.](https://github.com/mglevitt/Medical-Disparity-Causal-Analysis)
+If you would like to read more about our data, see [this report,](https://docs.google.com/document/d/1cvPz98_5bFYzUca4mlcvndjPvenBJzs4ya1jSkPVNS0/edit?usp=sharing) or view the data directly on [our repo.](https://github.com/mglevitt/Medical-Disparity-Causal-Analysis)
 
 ### Support or Contact
 
