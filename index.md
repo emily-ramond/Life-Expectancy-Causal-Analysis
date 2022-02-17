@@ -8,7 +8,9 @@ To find out more about us, click [here.](About.md)
 
 
 ### How to Use
-XXXX  XXX XX X XX
+
+In order to use the algorithm yourself, and add in more variables, we have organized a demo showing how we got our [main results.](Main-Results.md)
+**Explain the mainresults graph and what we can tell/how we can read it adam**
 
 ### Our Methods
 
