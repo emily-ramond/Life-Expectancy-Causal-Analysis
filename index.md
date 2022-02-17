@@ -14,6 +14,8 @@ XXXX  XXX XX X XX
 
 In this project, we utilize Independence-based causal discovery, leading us to use the popular **PC algorithm**, created and named after Spirtes and Glymour, that utilizes the idea that two statistically independent variables are not causally linked.
 
+To read our explanation on the PC Algorithm, see [Explanation of The PC Algorithm](PC-Algorithm-Explanation.md)
+
 ### Our Data
 We combined several different datasets in order to gather enough data to properly examine our question of choice. To begin, we utilized the World Happiness Report (WHR) (https://worldhappiness.report/faq/) which details, based on surveys, various factors that contribute to  a country’s overall happiness and wellbeing.
 
