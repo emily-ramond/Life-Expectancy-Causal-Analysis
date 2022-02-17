@@ -16,3 +16,6 @@ If these are true, then we know X-Z-Y forms an immortality
 Any edge Z-Y part of a partially directed path of the form X→ Z - Y where there is no edge connecting X and Y can be oriented as Z -> Y. 
 
 Once these steps have been cycled through and completed, and there are no more checks to run, the graph with directed edges is complete and we can start inferring information from that graph and associated variables, and in this case, causal dependencies have been oscillation patterns. It is important to note that a downside of conditional independence testing is that it is only efficient with infinite data. 
+
+
+Return back home by clicking [here.](index.md)
