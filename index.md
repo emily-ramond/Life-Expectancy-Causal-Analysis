@@ -4,6 +4,8 @@ In this project, we aim to establish causality between various socioeconomic var
 
 Below you will find background information on our data, our reasoning, our methods, and how to gather information for real world questions you can have. 
 
+To find out more about us, click [here](About.md)
+
 ### Interactive Unit
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
