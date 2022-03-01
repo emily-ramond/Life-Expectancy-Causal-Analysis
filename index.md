@@ -10,7 +10,7 @@ To find out more about us, click [here.](About.md)
 ### How to Use
 
 In order to use the algorithm yourself, and add in more variables, we have organized a demo showing how we got our [main results.](Main-Results.md)
-**Explain the mainresults graph and what we can tell/how we can read it adam**
+**LAST THING THAT NEEDS DONE!!!! EXPLANATION OF HOW TO READ GRAPHS - EXPLANATION OF RUNNING ALGORITHM - EXPLANATION OF SPECIFIC GRAPHS**
 
 ### Our Methods
 
