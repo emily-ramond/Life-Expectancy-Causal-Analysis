@@ -32,23 +32,3 @@ If you would like to read more about our data, see [this report,](https://docs.g
 ### Support or Contact
 
 Want to see more behind the scenes or need additional help? Check out our [documentation](https://github.com/mglevitt/Medical-Disparity-Causal-Analysis) or send us an email at eramond@ucsd.edu, mglevitt@ucsd.edu, and akreitzman@ucsd.edu. 
-
-
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
