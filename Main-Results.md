@@ -25,3 +25,5 @@ Putting everything together, it is apparent that certain pathways exist that can
 
 Thus, from our results, we can deduce that the best way to set up a society for a high quality of life is to have a transparent government with frequent elections and for the government to include a representative body of people. This will generally lead to people voting for their own self-interest, which will lead to a number of positive outcomes, such as higher quality of life, more generosity among individuals, more social support, and lower economic inequality.
 
+Return to home [here.](index.md)
+
