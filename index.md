@@ -45,9 +45,6 @@ pipenv run .\src\scripts\download_data.py
 
 For any other unexpected issues that you encounter with using our pipeline, feel free to reach out to Max Levitt for assistance at mglevitt@ucsd.edu. 
 
-
-**LAST THING THAT NEEDS DONE!!!! EXPLANATION OF HOW TO READ GRAPHS**
-
 ### Our Methods
 
 In this project, we utilize Independence-based causal discovery, leading us to use the popular **PC algorithm**, created and named after Spirtes and Glymour, that utilizes the idea that two statistically independent variables are not causally linked.
