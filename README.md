@@ -1,4 +1,5 @@
 # Life-Expectancy-Causal-Analysis
+This repository contains the code for our website that occompanies the DSC180B Capstone Project at UCSD. 
 
 Check out our website below: 
 
@@ -14,4 +15,4 @@ https://docs.google.com/presentation/d/1nl3jgjWYY4TYnlfXK2mgPSEegBOGKwMv_zhaF2Vz
 
 and Documentation here: 
 
-https://github.com/mglevitt/Medical-Disparity-Causal-Analysis
+https://github.com/emily-ramond/Medical-Disparity-Causal-Analysis
